@@ -1,0 +1,15 @@
+div{
+  display: flex;
+  background-color: red;
+}
+article{
+  margin: 10px;
+  margin-top: 10px;
+}
+.snow{
+  color: green;
+}
+
+.snow p {
+  background-color: teal;
+}
